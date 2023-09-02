@@ -4,7 +4,7 @@
 //     -> All subject marks print 
 //     -> Total Marks 
 //     -> Percentage print 
-//     -> Father Name, Student Name, Roll no, school/college name, Class name print 
+//   
 
 // let studentDetails = {
 //     studentName: "Anish khan",
